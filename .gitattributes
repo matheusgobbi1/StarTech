@@ -1,0 +1,15 @@
+# Força o Git a normalizar os finais de linha
+* text=auto
+
+# Ignorar node_modules
+node_modules/
+
+# Ignorar arquivos do Windows
+Thumbs.db
+Desktop.ini
+
+# Ignorar diretórios
+.android/
+AppData/
+node_modules/
+.vscode/
